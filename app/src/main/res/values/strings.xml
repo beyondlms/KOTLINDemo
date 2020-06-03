@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KOTLINDEMO</string>
+    <string name="button_name">按 钮</string>
+</resources>
